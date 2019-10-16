@@ -7,3 +7,5 @@ Age: 21
 Job: Programmer
 
 Fb: Vuthaiha
+
+Phone: 0987654321
